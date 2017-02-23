@@ -10,6 +10,9 @@ namespace ConsoleApplication37
     {
         static void Main(string[] args)
         {
+            C c = new C();
+            c.S2();
+            Console.ReadKey();
         }
     }
 }
